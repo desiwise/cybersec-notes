@@ -4,7 +4,7 @@ My Linux, networking and cybersec learning notes
 
 My notes while learning Linux, networking and cybersecurity.
 
-### What I'm learning
+## What I'm learning
 - Linux basics on Kali
 - Networking: TCP/IP, ports, DNS
 - Git and GitHub
